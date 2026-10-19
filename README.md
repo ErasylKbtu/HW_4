@@ -4,7 +4,7 @@ A responsive assignment planner for **Task 4 — Async React: Effects & API**.
 
 Student: **Karas Yerassyl**  
 Russian setup and submission instructions: [START_HERE_RU.md](START_HERE_RU.md)  
-Russian defense guide: [DEFENSE_GUIDE_RU.md](DEFENSE_GUIDE_RU.md)
+
 
 ## Run
 
